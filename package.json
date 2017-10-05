@@ -1,7 +1,7 @@
 {
-  "name": "fnx-basic-coding-template",
+  "name": "fnx_coding_template",
   "version": "1.0.0",
-  "description": "Zakladni template pro kodovani novych webu",
+  "description": "Zakladni template pro kodovani novych webu FNX",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
